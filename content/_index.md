@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: SAH Electronics Documentation
 toc: false
 ---
 
-This is the landing page.
+This is the landing page for SAH Electronics Documentation
 
 ## Explore
 
